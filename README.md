@@ -1,5 +1,5 @@
 # cognifyz_task3
-```markdown
+
 # Restaurant Recommendation System
 
 This repository contains the code implementation and documentation for the cuisine classification model developed as part of the internship project at Cognifyz Technologies.
