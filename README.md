@@ -21,7 +21,7 @@ In this project, we aimed to develop a cuisine classification model for restaura
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/restaurant-recommendation.git
+   git clone https://github.com/Mhari2410/cognifyz_task3
    ```
 
 2. Install the required dependencies:
